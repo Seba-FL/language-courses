@@ -149,17 +149,17 @@
     <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
-    <enableSearch>true</enableSearch>
+    <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <gender>Feminine</gender>
-    <label>Language Course Designer</label>
+    <gender>Masculine</gender>
+    <label>Prueba</label>
     <nameField>
-        <label>Language Course Designer Name</label>
+        <label>Prueba Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Language Course Designers</pluralLabel>
+    <pluralLabel>Pruebas</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

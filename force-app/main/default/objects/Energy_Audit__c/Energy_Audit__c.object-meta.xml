@@ -154,12 +154,12 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <gender>Feminine</gender>
-    <label>Language Course Designer</label>
+    <label>Energy Audit</label>
     <nameField>
-        <label>Language Course Designer Name</label>
+        <label>Energy Audit Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Language Course Designers</pluralLabel>
+    <pluralLabel>Energy Audits</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
